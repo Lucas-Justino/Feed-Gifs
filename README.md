@@ -1,4 +1,4 @@
-# Trending GIFs Feed
+# GIFs Feed
 
 Este projeto é uma aplicação React que consome a API do Giphy para exibir GIFs em um feed, permitindo pesquisa, paginação e filtragem por título e usuário.
 
