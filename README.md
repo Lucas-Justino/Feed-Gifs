@@ -60,20 +60,27 @@ npm run dev
 7. Acesse a aplicação no seu navegador entrando no link Local fornecido após iniciar o servidor
 
 
+
 ## Estrutura do Projeto
 
 - `public/`: Arquivos estáticos do projeto.
 - `src/`: Código-fonte da aplicação.
-  - `components/`: Componentes React reutilizáveis.
-  - `Feed.js`: Componente principal que renderiza o feed de GIFs.
-  - `SearchForm.js`: Componente de formulário de pesquisa.
-  - `GifGrid.js`: Componente para exibir os GIFs em um grid.
+  - `components/`: Pasta que contém os componentes React reutilizáveis.
+    - `Feed/`: Pasta que contém o componente `Feed`.
+    - `GifGrid/`: Pasta que contém o componente `GifGrid`.
+    - `SearchForm/`: Pasta que contém o componente `SearchForm`.
   - `App.js`: Componente raiz que renderiza o aplicativo.
   - `index.js`: Arquivo de entrada do aplicativo.
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
+
+
 
 
 
