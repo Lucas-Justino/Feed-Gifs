@@ -72,14 +72,6 @@ npm run dev
   - `App.js`: Componente raiz que renderiza o aplicativo.
   - `index.js`: Arquivo de entrada do aplicativo.
 
-## Contribuição
-
-Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 
 
 
